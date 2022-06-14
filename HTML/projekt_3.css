@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pozadina{
+	background-image: url("pozadina.jpg");
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+
+h2 {
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+}
+
+img {
+	height: 250px;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+p1 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: darkblue;
+	font-size: 20px;
+}
+
+.naslov_vj {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 16px;
+}
+
+.dosje {
+	background-color: papayawhip;
+}
+
+p {
+	font-size: 16px;
+}
+
+.paragraf1{color: goldenrod; background-color: rgba(255,255,255,0.5)}
+
+.paragraf2{color: hotpink; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf3{color: tomato; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf4{color: darkcyan; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf5{color: rebeccapurple; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf6{color: black; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf7{color: red; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf8{color: blue; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf9{color: green; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf10{color: orange; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf11{color: #0D1C8B; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf12{color: darkolivegreen; background-color: rgba(255, 255, 255, 0.5)}
+
+.paragraf13{color: tan ; background-color: rgba(255, 255, 255, 0.5)}
